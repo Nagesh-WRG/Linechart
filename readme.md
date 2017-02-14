@@ -1,3 +1,8 @@
+# Generating Linechart by using json data from external source by using Lavacharts.
+
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
