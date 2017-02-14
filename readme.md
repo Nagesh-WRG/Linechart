@@ -1,4 +1,4 @@
-# Generating Linechart by using json data from external source by using Lavacharts.
+# Generating Linechart with json data from external source by using Lavacharts.
 
 
 
